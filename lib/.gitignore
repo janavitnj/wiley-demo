@@ -1,4 +1,2 @@
 \lib
-file2.lib
-\lib
-file3.lib
+*.lib
